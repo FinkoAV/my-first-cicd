@@ -1,4 +1,4 @@
-name: CI/CD for Project
+name: CI/CD for Project (My Python)
 
 on:
   push:
