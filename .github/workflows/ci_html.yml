@@ -1,4 +1,4 @@
-name: CI/CD for Static Website
+name: CI/CD for Static Website (My 1 Html)
 
 on:
   push:
