@@ -20,7 +20,7 @@ jobs:
         python-version: '3.10'
         
     - name: Run tests
-      run: python /home/runner/work/my-first-cicd/test.py
+      run: python test.py
       
   deploy:
     needs: test
